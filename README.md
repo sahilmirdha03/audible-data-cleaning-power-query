@@ -49,3 +49,8 @@ Power Query Transformations
 Data Standardization
       ↓
 Analysis-Ready Dataset
+
+💡 Key Learning
+Through this project, I practiced using Power Query to clean, transform, standardize, and structure real-world style dataset fields for data analysis.
+👤 Author
+Sahil Mirdha
